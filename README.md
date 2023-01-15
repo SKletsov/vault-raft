@@ -36,3 +36,5 @@ ansible_become=true
 
 
 Links - https://vmik.net/2022/02/01/hc-vault-install-raft/
+https://github.com/ansible-community/ansible-vault
+
